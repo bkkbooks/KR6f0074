@@ -1,0 +1,113 @@
+canonical_identifier: bkk:krp/KR6f0074/v1
+canonical_location: https://kanripo.org/bkk/KR6f0074/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀無量壽佛經疏妙宗鈔
+  identifiers:
+    alt_id:
+    - T37n1751
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1751.xml
+    old_id: T37n1751
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 洪武-CB
+  label: 洪武-CB
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0074_000.yaml, hash: 'sha256:d9b4cda403439a1e3ee245ad1f525dc9b89b6af8ecdc2b0c18919b57295ab899'}
+  - {seq: 1, filename: KR6f0074_001.yaml, hash: 'sha256:c7875a7f4696c49d1f2b45b04859027e608ade37ddafd49723ccaae1a9d40b45'}
+  - {seq: 2, filename: KR6f0074_002.yaml, hash: 'sha256:f8e64523a30775ba36cc94326003f731c01bd2e8eb6a31f863eb80542883a19d'}
+  - {seq: 3, filename: KR6f0074_003.yaml, hash: 'sha256:b932f59bb387339749119223c0f521c81968d99f027cea39a4d51205e7aec1ce'}
+  - {seq: 4, filename: KR6f0074_004.yaml, hash: 'sha256:ddbd14124cc538249dc4870c351211d0456a1b7422336b0517cb31e3fc158c7c'}
+  - {seq: 5, filename: KR6f0074_005.yaml, hash: 'sha256:7348a23fa712599537cbb94ba79b6b1db6c2b553163a2b62203856b71dd3a670'}
+  - {seq: 6, filename: KR6f0074_006.yaml, hash: 'sha256:0c33a48a5f8bfb505970b829f2a54142b69fd0072aa2f6872fc1881b0290ecf7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6f0074_001.markers.yaml, hash: 'sha256:4b9a234642132edabf312532b85ea3bcc0e3c4a6b710242ebcd7c245079a77cc'}
+  - {seq: 2, role: markers, filename: assets/KR6f0074_002.markers.yaml, hash: 'sha256:86628c63197a1cde1136c60a532d4b9f4720b5d0fa6c63f16be2ef6be1498fc5'}
+  - {seq: 3, role: markers, filename: assets/KR6f0074_003.markers.yaml, hash: 'sha256:a81b875671b32803db22ba0ccecbbda57f0000edd78d21f80e4e9e543019ed70'}
+  - {seq: 4, role: markers, filename: assets/KR6f0074_004.markers.yaml, hash: 'sha256:0e3b60958c0a1cd0170e55f38a131bfd0b381626c8f498f3bcf73ae225c8edbd'}
+  - {seq: 5, role: markers, filename: assets/KR6f0074_005.markers.yaml, hash: 'sha256:f77e7f7d8f2f867fea92458347ce0498b999b680890debd570b55039ce185f40'}
+  - {seq: 6, role: markers, filename: assets/KR6f0074_006.markers.yaml, hash: 'sha256:d00362c6c27e68b77e1d9421b4aa9c321fee72438e5712d4c4b63b3c923cf3b2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0074_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10012
+  label: '觀無量壽佛經疏妙宗鈔卷
+
+    第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0074_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9908
+  label: 觀無量壽佛經疏妙宗鈔卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0074_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9507
+  label: 觀無量壽佛經疏妙宗鈔卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6f0074_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9499
+  label: 觀無量壽佛經疏妙宗鈔卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6f0074_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6640
+  label: 觀無量壽佛經疏妙宗鈔卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6f0074_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 10616
+  label: 觀無量壽佛經疏妙宗鈔卷第六
+  type: juan
+  level: 1
+hash: sha256:d86416a0609f977e683f21c41241b23eb1204e37b881bc5e567075461b3feee7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

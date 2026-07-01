@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0074/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀無量壽佛經疏妙宗鈔
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1751.xml
+    old_id: T37n1751
+hash: sha256:d9b4cda403439a1e3ee245ad1f525dc9b89b6af8ecdc2b0c18919b57295ab899
