@@ -31,19 +31,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0074_000.yaml, hash: 'sha256:d9b4cda403439a1e3ee245ad1f525dc9b89b6af8ecdc2b0c18919b57295ab899'}
-  - {seq: 1, filename: KR6f0074_001.yaml, hash: 'sha256:c7875a7f4696c49d1f2b45b04859027e608ade37ddafd49723ccaae1a9d40b45'}
-  - {seq: 2, filename: KR6f0074_002.yaml, hash: 'sha256:f8e64523a30775ba36cc94326003f731c01bd2e8eb6a31f863eb80542883a19d'}
-  - {seq: 3, filename: KR6f0074_003.yaml, hash: 'sha256:b932f59bb387339749119223c0f521c81968d99f027cea39a4d51205e7aec1ce'}
-  - {seq: 4, filename: KR6f0074_004.yaml, hash: 'sha256:ddbd14124cc538249dc4870c351211d0456a1b7422336b0517cb31e3fc158c7c'}
-  - {seq: 5, filename: KR6f0074_005.yaml, hash: 'sha256:7348a23fa712599537cbb94ba79b6b1db6c2b553163a2b62203856b71dd3a670'}
-  - {seq: 6, filename: KR6f0074_006.yaml, hash: 'sha256:0c33a48a5f8bfb505970b829f2a54142b69fd0072aa2f6872fc1881b0290ecf7'}
+  - {seq: 1, filename: KR6f0074_001.yaml, hash: 'sha256:9608bb9277a645477e2f83b5b49e0e45ff8fbe16ee4db29939158b9d1b1dd2a7'}
+  - {seq: 2, filename: KR6f0074_002.yaml, hash: 'sha256:f5eb44b3f487419b601e785c6f7c06ef339f2bec3225968deacc5eb16b90a446'}
+  - {seq: 3, filename: KR6f0074_003.yaml, hash: 'sha256:061dc6958290b829ff8abd1c82acc759be21bdb3ff234cf038a1f7d36c6e9281'}
+  - {seq: 4, filename: KR6f0074_004.yaml, hash: 'sha256:b221c3c10cae28ae1e09e1d4817df3eb8cf7ca68853cf34eec3544a5009bc5b9'}
+  - {seq: 5, filename: KR6f0074_005.yaml, hash: 'sha256:ac9efa1a16f6189eba77c181d5c62ca0a3f8d2cb1d2041e7581877df415455dc'}
+  - {seq: 6, filename: KR6f0074_006.yaml, hash: 'sha256:55b116df9b30dec61359b316dd83af7276d844591052068df01b2ebdd1c94846'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0074_001.markers.yaml, hash: 'sha256:4b9a234642132edabf312532b85ea3bcc0e3c4a6b710242ebcd7c245079a77cc'}
-  - {seq: 2, role: markers, filename: assets/KR6f0074_002.markers.yaml, hash: 'sha256:86628c63197a1cde1136c60a532d4b9f4720b5d0fa6c63f16be2ef6be1498fc5'}
-  - {seq: 3, role: markers, filename: assets/KR6f0074_003.markers.yaml, hash: 'sha256:a81b875671b32803db22ba0ccecbbda57f0000edd78d21f80e4e9e543019ed70'}
-  - {seq: 4, role: markers, filename: assets/KR6f0074_004.markers.yaml, hash: 'sha256:0e3b60958c0a1cd0170e55f38a131bfd0b381626c8f498f3bcf73ae225c8edbd'}
-  - {seq: 5, role: markers, filename: assets/KR6f0074_005.markers.yaml, hash: 'sha256:f77e7f7d8f2f867fea92458347ce0498b999b680890debd570b55039ce185f40'}
-  - {seq: 6, role: markers, filename: assets/KR6f0074_006.markers.yaml, hash: 'sha256:d00362c6c27e68b77e1d9421b4aa9c321fee72438e5712d4c4b63b3c923cf3b2'}
+  - {seq: 0, role: markers, filename: assets/KR6f0074_000.markers.yaml, hash: 'sha256:3e1d4575398cc7138b3ab920dcfec6018962e8ea08a071e9ddf0d97c4103ea35'}
+  - {seq: 1, role: markers, filename: assets/KR6f0074_001.markers.yaml, hash: 'sha256:15658b86bea563f8baa8d4aefd51461962d47025f73a9bf0536ce918b59987d1'}
+  - {seq: 2, role: markers, filename: assets/KR6f0074_002.markers.yaml, hash: 'sha256:b3f88b538e762958c55167ba499ed4088bf8095f5963ce936c6f6f5a5deb536e'}
+  - {seq: 3, role: markers, filename: assets/KR6f0074_003.markers.yaml, hash: 'sha256:ebaf0a131997750e41d94ec8f0453ca3cf8bae5031c12de3f134da7672d2c711'}
+  - {seq: 4, role: markers, filename: assets/KR6f0074_004.markers.yaml, hash: 'sha256:107580f6d3117ca60d2399ebdaa43e8c21847bcadb26df80ab618a75ccf5c975'}
+  - {seq: 5, role: markers, filename: assets/KR6f0074_005.markers.yaml, hash: 'sha256:b8998b1e867632f3e4906faf19c9b66d04ba7204687190128e403352509673e4'}
+  - {seq: 6, role: markers, filename: assets/KR6f0074_006.markers.yaml, hash: 'sha256:d2b50fc2ae3073498d2c0d5e5e2dc327e2b4bf77f9631d9b8461d7ce13e01443'}
 table_of_contents:
 - ref:
     seq: 1
@@ -107,7 +108,4 @@ table_of_contents:
   label: 觀無量壽佛經疏妙宗鈔卷第六
   type: juan
   level: 1
-hash: sha256:d86416a0609f977e683f21c41241b23eb1204e37b881bc5e567075461b3feee7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:576c051b243e2c236b97ee8b3abac874bbd4f87e4540593d00b203fa469865de
