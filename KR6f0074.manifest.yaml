@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0074/v1
 canonical_location: https://kanripo.org/bkk/KR6f0074/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀無量壽佛經疏妙宗鈔
   identifiers:
@@ -31,20 +31,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0074_000.yaml, hash: 'sha256:d9b4cda403439a1e3ee245ad1f525dc9b89b6af8ecdc2b0c18919b57295ab899'}
-  - {seq: 1, filename: KR6f0074_001.yaml, hash: 'sha256:9608bb9277a645477e2f83b5b49e0e45ff8fbe16ee4db29939158b9d1b1dd2a7'}
-  - {seq: 2, filename: KR6f0074_002.yaml, hash: 'sha256:f5eb44b3f487419b601e785c6f7c06ef339f2bec3225968deacc5eb16b90a446'}
-  - {seq: 3, filename: KR6f0074_003.yaml, hash: 'sha256:061dc6958290b829ff8abd1c82acc759be21bdb3ff234cf038a1f7d36c6e9281'}
-  - {seq: 4, filename: KR6f0074_004.yaml, hash: 'sha256:b221c3c10cae28ae1e09e1d4817df3eb8cf7ca68853cf34eec3544a5009bc5b9'}
-  - {seq: 5, filename: KR6f0074_005.yaml, hash: 'sha256:ac9efa1a16f6189eba77c181d5c62ca0a3f8d2cb1d2041e7581877df415455dc'}
-  - {seq: 6, filename: KR6f0074_006.yaml, hash: 'sha256:55b116df9b30dec61359b316dd83af7276d844591052068df01b2ebdd1c94846'}
+  - {seq: 1, filename: KR6f0074_001.yaml, hash: 'sha256:b0af9b5adc5f14f5b570da4a69b8948efff3e45cd3d7e11977e4337e59ad6f34'}
+  - {seq: 2, filename: KR6f0074_002.yaml, hash: 'sha256:122615f5748ab1a4129f2870f175a6d10e41be831c5709fc5ec63187334427fd'}
+  - {seq: 3, filename: KR6f0074_003.yaml, hash: 'sha256:456242e919d0ee2ef74bdd7129cbb153974de4be6ac5304085b47e7d7535241c'}
+  - {seq: 4, filename: KR6f0074_004.yaml, hash: 'sha256:ac6d0db3bdf8d409b3efcbdcd683e335bc8f277dab514de41123612fde287c70'}
+  - {seq: 5, filename: KR6f0074_005.yaml, hash: 'sha256:588409d381a2ce4ff506b22821b605d986efc8d54d71f9ef94b753a34afc4ba9'}
+  - {seq: 6, filename: KR6f0074_006.yaml, hash: 'sha256:f87f436ea860faff2d45af94921457c974490b56fadd0db5ab4d97189312d897'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0074_000.markers.yaml, hash: 'sha256:3e1d4575398cc7138b3ab920dcfec6018962e8ea08a071e9ddf0d97c4103ea35'}
-  - {seq: 1, role: markers, filename: assets/KR6f0074_001.markers.yaml, hash: 'sha256:15658b86bea563f8baa8d4aefd51461962d47025f73a9bf0536ce918b59987d1'}
-  - {seq: 2, role: markers, filename: assets/KR6f0074_002.markers.yaml, hash: 'sha256:b3f88b538e762958c55167ba499ed4088bf8095f5963ce936c6f6f5a5deb536e'}
-  - {seq: 3, role: markers, filename: assets/KR6f0074_003.markers.yaml, hash: 'sha256:ebaf0a131997750e41d94ec8f0453ca3cf8bae5031c12de3f134da7672d2c711'}
-  - {seq: 4, role: markers, filename: assets/KR6f0074_004.markers.yaml, hash: 'sha256:107580f6d3117ca60d2399ebdaa43e8c21847bcadb26df80ab618a75ccf5c975'}
-  - {seq: 5, role: markers, filename: assets/KR6f0074_005.markers.yaml, hash: 'sha256:b8998b1e867632f3e4906faf19c9b66d04ba7204687190128e403352509673e4'}
-  - {seq: 6, role: markers, filename: assets/KR6f0074_006.markers.yaml, hash: 'sha256:d2b50fc2ae3073498d2c0d5e5e2dc327e2b4bf77f9631d9b8461d7ce13e01443'}
+  - {seq: 1, role: markers, filename: assets/KR6f0074_001.markers.yaml, hash: 'sha256:4797b48fcb6a5274debee881e75c5583893bc1a505688705fc28168f33c92fbd'}
+  - {seq: 2, role: markers, filename: assets/KR6f0074_002.markers.yaml, hash: 'sha256:e778b29126a04f96754f9286976ec69ea422be453a35d35e3754ea785569334b'}
+  - {seq: 3, role: markers, filename: assets/KR6f0074_003.markers.yaml, hash: 'sha256:967045dba196722ee11cea4422bc7294d103767263aefb25f2a59f485dafc636'}
+  - {seq: 4, role: markers, filename: assets/KR6f0074_004.markers.yaml, hash: 'sha256:a37f80e00d2fbcc4fff2db4c34770db5f0bd7bbd2ae994ea60554bc38f517684'}
+  - {seq: 5, role: markers, filename: assets/KR6f0074_005.markers.yaml, hash: 'sha256:528dfdbe87f45c85bef51ed63ef3b3376b70c64a6e3cf5eab9930029fd681466'}
+  - {seq: 6, role: markers, filename: assets/KR6f0074_006.markers.yaml, hash: 'sha256:57f2702fd769cb2e9b5f257352952229686433cca9c30fc332397fa9b15dcf32'}
 table_of_contents:
 - ref:
     seq: 1
@@ -108,4 +108,7 @@ table_of_contents:
   label: 觀無量壽佛經疏妙宗鈔卷第六
   type: juan
   level: 1
-hash: sha256:576c051b243e2c236b97ee8b3abac874bbd4f87e4540593d00b203fa469865de
+hash: sha256:20bc0ec288738d82d6eae27254eabc997317c750af29644828ff6dcc7d76e625
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
